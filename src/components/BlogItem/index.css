@@ -1,0 +1,33 @@
+.blog-container {
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+  list-style-type: none;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+}
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  line-height: 26px;
+  font-style: normal;
+  font-weight: normal;
+}
+.paragraph {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  line-height: 26px;
+  font-style: normal;
+  font-weight: normal;
+}
